@@ -1,1 +1,1 @@
-[![GoDoc](https://godoc.org/github.com/JVecsei/presence?status.svg)](https://godoc.org/github.com/JVecsei/presence)
+[![GoDoc](https://godoc.org/github.com/JVecsei/presence?status.svg)](https://godoc.org/github.com/JVecsei/presence)[![Go](https://github.com/JVecsei/presence/actions/workflows/go.yml/badge.svg)](https://github.com/JVecsei/presence/actions/workflows/go.yml)
